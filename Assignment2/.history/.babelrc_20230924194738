@@ -1,0 +1,12 @@
+mern-skeleton4/.babelrc:
+{
+"presets": [
+["@babel/preset-env", 
+{
+"targets": {
+"node": "current" 
+}
+} 
+]
+]
+}

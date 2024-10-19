@@ -1,0 +1,12 @@
+MER-skeleton/.babelrc:
+{
+"presets": [
+["@babel/preset-env", 
+{
+"targets": {
+"node": "current" 
+}
+} 
+]
+]
+}
